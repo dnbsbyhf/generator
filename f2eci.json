@@ -1,0 +1,11 @@
+{
+	"scripts": {
+		"build": "npm run build",
+		"postpublish": ""
+	},
+	"dist": "./dist",
+	"output": "./html",
+	"urlPrefix": "/",
+	"static-src": "static",
+	"env": "dev"
+}
